@@ -14,6 +14,12 @@
 # Submodule
 1. `git submodule add git@github.com:glfw/glfw.git external/glfw`
 
+# Libraries
+1. `add_subdirectory()`
+2. `target_include_directories()` - to use shorter path
+3. `target_link_directories()` - link src library dir
+
 ## Usefull
 1. `cmake --help` to check available generators
 2. https://code.visualstudio.com/docs/cpp/config-mingw
+3. `c++ edit configuration` to add custom include path
