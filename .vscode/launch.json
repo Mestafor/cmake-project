@@ -5,10 +5,10 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "(gdb) cmake_test",
+            "name": "(gdb) cmake_project",
             "type": "cppdbg",
             "request": "launch",
-            "program": "${workspaceFolder}\\build\\bin\\cmake_test.exe",
+            "program": "${workspaceFolder}\\build\\bin\\cmake_project.exe",
             "args": [],
             "stopAtEntry": false,
             "cwd": "${fileDirname}",
