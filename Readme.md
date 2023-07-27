@@ -23,3 +23,4 @@
 1. `cmake --help` to check available generators
 2. https://code.visualstudio.com/docs/cpp/config-mingw
 3. `c++ edit configuration` to add custom include path
+4. `gdb --args ./build/bin/cmake_project`
